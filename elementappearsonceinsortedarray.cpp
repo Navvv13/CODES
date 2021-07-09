@@ -1,4 +1,6 @@
 //in this program i have used the approach that is XOR APPROACH
+/*if we want to solve this same question with time complexity not O(n) as this code gives us the answer -> 
+if we want to solve this problem in time complexity O(log n) -> we can simply apply the method of binary search in this question.*/
 #include<iostream>
 using namespace std;
 int main()
